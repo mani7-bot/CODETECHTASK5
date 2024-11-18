@@ -45,3 +45,9 @@ This code represents the structure of a **Food Recipe Finder** web application t
 
 The app aims to help users find food recipes based on their search queries, providing a user-friendly interface for browsing recipes by ingredients or dish names. The visual design and interaction will be styled using the external `style.css`, while the logic for fetching and displaying recipes will be handled by the `script.js` file.
 
+## OUTPUT:
+
+![Screenshot 2024-11-18 190426](https://github.com/user-attachments/assets/23f575f4-f3c6-4df9-8c95-689910ba6d4e)
+
+
+![screencapture-mani7-bot-github-io-CODETECHTASK5-2024-11-18-19_06_12](https://github.com/user-attachments/assets/9a9ad03d-ea66-4dba-a796-42b4261d3462)
